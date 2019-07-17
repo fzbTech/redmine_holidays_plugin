@@ -1,4 +1,5 @@
 Redmine Holidays Plugin
+This one does not work with redmine 3.4.x need to be re-programming --Peter Du
 =======================
 
 This is a redmine plugin that displays holiday in the calendar.
