@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'holidays'
+gem 'holidays', '7.1.0'
